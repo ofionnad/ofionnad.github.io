@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Dúalta Ó Fionnagáin
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Dúalta
+last_name: Ó Fionnagáin
 
 # Status emoji
 status:
@@ -14,34 +14,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Scientist in Climate Change, Remote Sensing, Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Galway
+    url: http://universityofgalway.ie
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Scientist focused on climate change adaptation using Earth observation
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote Sensing
+  - Deep Learning
+  - Multi-dimensional data
+  - Computer Vision
+  - Synthetic Aperature Radar
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Physics
+      institution: Trinity College Dublin
+      year: 2020
+    - course: M.Sc. Space Science and Technology
+      institution: University College Dublin
+      year: 2016
+    - course: BSc in Physics and Astrophysics
+      institution: Trinity College Dublin
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +52,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:dualtaofionnagain@universityofgalway.ie'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/dualta93
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=PjBl4DUAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ofionnad
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ofionnad/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data scientist currently working as a postdoc applying remote sensing (satellite data) to quantify food security and agricultural adaptation to climate change. My PhD in astrophysics focused on simulations of environments around solar-type stars. Now I lead the research of machine learning and computer vision analysis on our team, working with open source satellite data (e.g. Sentinel-1/2, Landsat, etc.). I'm interested in using optical and radar satellites to inform agricultural policy, large agricultural stakeholders, and the mitigation of climate change. 
 {style="text-align: justify;"}

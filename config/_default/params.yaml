@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  mode: light
+  theme_day: forest
+  theme_night: green
+  font: Minimal
+  font_size: m
 
 # SEO
 
@@ -34,7 +35,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -45,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Dúalta Ó Fionnagáin {year}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ofionnad/website'
     content_dir: content
     branch: main
   avatar:
