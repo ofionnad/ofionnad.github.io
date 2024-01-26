@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Dúalta Ó Fionnagáin # Website name
-baseURL: 'https://ofionnad.github.io' # Website URL
+baseURL: 'https://dualta.space' # Website URL
 
 ############################
 ## LANGUAGE
