@@ -1,5 +1,5 @@
 ---
-title: "Circumstellar environment of 55 Cancri"
+title: "Circumstellar environment of 55 Cancri: The super-Earth 55 Cnc e as a primary target for star–planet interactions"
 authors:
 - CP Folsom
 - admin
@@ -12,11 +12,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-01-06:00:00Z"
+date: "2020-01-15T00:00:00Z"
 doi: "doi:10.1051/0004-6361/201937186"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-15:00:00Z"
+publishDate: "2020-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
