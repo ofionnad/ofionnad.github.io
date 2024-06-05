@@ -18,7 +18,7 @@ date: "2024-05-31T00:00:00Z"
 doi: "doi:10.1088/1748-9326/ad52b1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-31T00:00:00Z"
+publishDate: "2024-06-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -57,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
